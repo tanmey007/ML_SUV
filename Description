@@ -1,0 +1,1 @@
+I have analyzed dataset available by car selling company. It has USER ID, Age, Gender, EstimatedSalary,Purchased, I have used logistic regression to classify whether the individual will buy the SUV or not  to help marketing team to make better informed decisions
